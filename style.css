@@ -1,0 +1,30 @@
+.container-utama{
+    background-color: rgb(188, 236, 243);
+}
+
+.container-home{
+  background-color: lightgrey;
+  width: auto;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    box-shadow: 0 0 10px 1px black;
+  }
+
+.content {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+.button{
+    background-color: green;
+    border: 1px solid transparent;
+}
